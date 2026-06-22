@@ -1,1 +1,1 @@
-# Collaborative Spectral Transformer for Large-Scale Cross-Day Specific Emitter Identification
+# CoSL: Collaborative Spectral Learning for Temporal Domain Generalization in Large-Scale Specific Emitter Identification
