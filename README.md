@@ -1,1 +1,1 @@
-# CoSL: Collaborative Spectral Learning for Temporal Domain Generalization in Large-Scale Specific Emitter Identification
+# CoSL: Collaborative Spectral Learning for Cross-Day Generalization in Large-Scale Specific Emitter Identification
